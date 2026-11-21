@@ -138,6 +138,9 @@ The platform demonstrated functional target-angle response. However, the respons
 
 These observations represent prototype testing rather than formal quantitative performance measurements.
 
+### Serial Monitor Evidence
+
+Serial Monitor screenshots documenting the platform response at different target angles (positive, negative, smaller-angle and near-zero conditions) are available in the repository.
 ## Limitations
 
 - The system is an experimental prototype, not a precision positioning platform.

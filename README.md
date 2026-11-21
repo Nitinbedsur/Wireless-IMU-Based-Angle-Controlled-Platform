@@ -191,7 +191,7 @@ The source code files will be available in the repository.
 
 The project demonstration video illustrates the handheld target-angle input and the corresponding physical platform response.
 
-<!-- Add the demonstration video link here -->
+[Watch the project demonstration video](https://drive.google.com/file/d/1NsbuMGjx97qdFQom_y0Mo23i8CQ1qq2m/view?usp=sharing)
 
 ## Repository Contents
 

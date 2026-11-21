@@ -164,15 +164,15 @@ The system demonstrates the practical integration of ESP32 wireless communicatio
 
 ### Prototype
 
-<!-- Add the main prototype image here after uploading it to the Images folder -->
+![Final Prototype](Prototype_Main.jpg)
 
 ### Platform Response at Positive Target Angle
 
-<!-- Add the positive-angle OLED image here -->
+![Positive Angle Response](OLED_Positive.jpg)
 
 ### Platform Response at Negative Target Angle
 
-<!-- Add the negative-angle OLED image here -->
+![Negative Angle Response](OLED_Negative.jpg)
 
 ## Source Code
 
